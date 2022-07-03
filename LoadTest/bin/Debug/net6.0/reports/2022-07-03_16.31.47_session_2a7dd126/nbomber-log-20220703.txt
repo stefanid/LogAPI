@@ -1,0 +1,40 @@
+2022-07-03 18:31:57.656 +02:00 [INF] [ThreadId:1] NBomber 3.0.0 Started a new session: 2022-07-03_16.31.47_session_2a7dd126
+2022-07-03 18:31:57.765 +02:00 [INF] [ThreadId:1] NBomber started as single node
+2022-07-03 18:31:57.830 +02:00 [INF] [ThreadId:1] Plugin loaded: NBomber.Plugins.Network.PingPlugin
+2022-07-03 18:31:57.830 +02:00 [INF] [ThreadId:1] Reporting sinks: no reporting sinks were loaded
+2022-07-03 18:31:57.830 +02:00 [INF] [ThreadId:1] Starting init...
+2022-07-03 18:31:57.837 +02:00 [INF] [ThreadId:1] Start init plugin: NBomber.Plugins.Network.PingPlugin
+2022-07-03 18:31:58.056 +02:00 [INF] [ThreadId:1] Target scenarios: insert_logentries
+2022-07-03 18:31:58.064 +02:00 [INF] [ThreadId:1] Init finished
+2022-07-03 18:31:58.065 +02:00 [INF] [ThreadId:1] Starting warm up...
+2022-07-03 18:31:59.166 +02:00 [INF] [ThreadId:20] Starting bombing...
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:20] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:4] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:18] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:18] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:18] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:18] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:18] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:19] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:15] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:17] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:20] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:4] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:13] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.318 +02:00 [FTL] [ThreadId:9] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:18] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:31:59.319 +02:00 [FTL] [ThreadId:16] Step 'insert_logentries' from Scenario: 'insert_logentries' has failed. Error: step timeout: 1000 ms
+2022-07-03 18:32:32.182 +02:00 [INF] [ThreadId:18] Stop plugin: NBomber.Plugins.Network.PingPlugin
+2022-07-03 18:32:32.184 +02:00 [INF] [ThreadId:18] Stopping scenarios...
+2022-07-03 18:32:32.189 +02:00 [INF] [ThreadId:18] Calculating final statistics...
+2022-07-03 18:32:32.398 +02:00 [INF] [ThreadId:26] Reports saved in folder: /Users/stefanidimitrova/RiderProjects/Log API/LoadTest/bin/Debug/net6.0/reports/2022-07-03_16.31.47_session_2a7dd126
