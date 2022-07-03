@@ -23,4 +23,4 @@ For the extra bonus assignment - Load testing - I used NBomber to perform a load
 and some of the requests were not handled. I am assuming the problem comes from the part of where I am writing directly to the file. To solve this this performance issue,
 my solution would be to actually create a ConcurrencyQueue that will store the incoming requests and would implement a check on the queue that would validate
 if the queue has the length of 1k or 5k requests (the smaller batcher, the better, as it would reduce the risk od data loss). Once the queue has reached the specified limit,
-I would bulk write all the files asynchroniously, empty the ConcurrencyQueue and continue recieving requests.
+I would bulk write all the data asynchroniously, empty the ConcurrencyQueue and continue recieving requests.
