@@ -954,3 +954,291 @@ Request Id : 1
 
 Component name : Test component
 -------------------------------
+
+Log Entry : 07/03/2022 18:48:52 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:48:52 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:48:52 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+-------------------------------
+
+Log Entry : 07/03/2022 18:48:52 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+
+Request Id : 1
+
+Component name : Test component
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:01 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:01 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:01 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:01 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+
+Request Id : 1
+
+Component name : Test component
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:15 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:15 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:15 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:15 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+
+Request Id : 1
+
+Component name : Test component
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:21 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:21 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:21 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:21 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+
+Request Id : 1
+
+Component name : Test component
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:30 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:30 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:30 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:30 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+
+Request Id : 1
+
+Component name : Test component
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:34 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:34 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:34 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+-------------------------------
+
+Log Entry : 07/03/2022 18:49:34 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : High
+
+Message : Test message
+
+Request Id : 1
+
+Component name : Test component
+-------------------------------
