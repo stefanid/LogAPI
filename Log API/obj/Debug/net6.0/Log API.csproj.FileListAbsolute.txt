@@ -1,0 +1,30 @@
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/appsettings.Development.json
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/appsettings.json
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Log API
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Log API.deps.json
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Log API.runtimeconfig.json
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Log API.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Log API.pdb
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/FluentValidation.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.csproj.AssemblyReference.cache
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.AssemblyInfoInputs.cache
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.AssemblyInfo.cs
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.csproj.CoreCompileInputs.cache
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.MvcApplicationPartsAssemblyInfo.cs
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.MvcApplicationPartsAssemblyInfo.cache
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/scopedcss/bundle/Log API.styles.css
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.csproj.CopyComplete
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/refint/Log API.dll
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.pdb
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/Log API.genruntimeconfig.cache
+/Users/stefanidimitrova/RiderProjects/Log API/Log API/obj/Debug/net6.0/ref/Log API.dll

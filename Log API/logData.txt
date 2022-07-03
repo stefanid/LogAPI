@@ -1,0 +1,11 @@
+
+Log Entry : 07/03/2022 14:55:07 +02:00
+
+Application ID : 1
+
+Trace ID : 1
+
+Severity : Medium
+
+Message : fatal
+-------------------------------
