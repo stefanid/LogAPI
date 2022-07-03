@@ -18,8 +18,7 @@ public static class LogWriter
         }
         catch (Exception ex)
         {
-            Console.WriteLine(ex);
-            throw;
+            throw new Exception(ex.Message);
         }
     }
 
@@ -52,8 +51,7 @@ public static class LogWriter
         }
         catch (Exception ex)
         {
-            Console.WriteLine(ex);
-            throw;
+            throw new Exception(ex.Message);
         }
     }
 }

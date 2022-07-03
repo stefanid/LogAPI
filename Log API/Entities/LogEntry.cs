@@ -26,5 +26,7 @@ public class LogEntryValidator : AbstractValidator<LogEntry>
             .NotEmpty();
         RuleFor(le => le.Message)
             .NotEmpty();
+        RuleFor(le => le.TimeStamp)
+            .NotEmpty();
     }
 }

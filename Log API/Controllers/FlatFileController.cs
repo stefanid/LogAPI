@@ -9,6 +9,7 @@ namespace Log_API.Controllers;
 public class FlatFileController: ControllerBase
 {
     private LoggerHelper.DelegateLogEntryData logEntryToFlatFile;
+    
     public FlatFileController()
     {
         

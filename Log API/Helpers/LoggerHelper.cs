@@ -8,9 +8,6 @@ public class LoggerHelper
 
     public class FlatFile
     {
-        public FlatFile()
-        {
-        }
         public static async Task LogEntryDataToFlatFile(LogEntry entry)
         {
             LogWriter.WriteLog(entry);
