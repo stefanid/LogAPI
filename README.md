@@ -7,7 +7,7 @@ The project currently uses the following technologies:
 4. NUNit for Unit testing
 5. NBomber for Load testing
 
-#Thought Process
+# Thought Process
 Considering the solution has to be adjusted and be as decoupled as possible in order to safely without any impact on other modules integrate different solutions
 to upload logging data to various destinations (MQ topic, Flatfile, Kafka topic, etc), the best and safest approach is to solve this with the usage of 
 delegates. 
