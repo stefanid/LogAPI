@@ -13,8 +13,8 @@ to upload logging data to various destinations (MQ topic, Flatfile, Kafka topic,
 delegates. 
 The usage of delegates helps in ensuring loose-coupling and safely scaling without too much of refactoring or impact. 
 If I was to solve this with interfaces, I would end up having to create different interfaces for the different destinations that might come in play in the future
-which would make scalability and readability a bit harder as an interface per destination would conform to the Single-responsibility pattern. Hence, why
-for the sake of readability, easy scalability and maintainability, delagates were the perfect solution for the problem at hand.
+which would make scalability and maintainability a bit harder as an interface per destination would conform to the Single-responsibility pattern. Hence, why
+for the sake of easy scalability and maintainability, delagates were the perfect solution for the problem at hand.
 
 Initially, I had two controllers to handle the two different logging destinations, however considering I am using a delegate that already creates the loose-coupling that I need,
 having separate controllers for the different actions, made no sense.
